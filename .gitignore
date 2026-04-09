@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-tests/
+*.js.map
+.omc/
+.DS_Store
+*.sqlite3
+/tmp/
+*.tgz
